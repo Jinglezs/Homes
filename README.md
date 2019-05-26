@@ -18,3 +18,6 @@ All commands require the player to be holding their Homes Catalog. The Homes Cat
 - /pinhome <name> <true or false> If true, adds the home to the Pinned Homes page. Otherwise it is removed.
 - /delhome <name> Removes the home from the catalog completely.
 - /setHomeDescription <name> <description...> Sets the home's description.  
+  
+### Homes Catalog
+Just a normal old signed book... with a few extra NBT tags. The crafting recipe is a compass with an enderpearl on each side (how does that create a book? I'm not sure but we can just assume it happens magykakally)
