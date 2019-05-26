@@ -1,0 +1,5 @@
+name: Homes
+author: Jingles
+version: 1.0.0
+main: net.jingles.homes.HomesMain
+api-version: "1.14"
